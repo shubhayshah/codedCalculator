@@ -16,7 +16,7 @@ In CLion, in the start opening, press on "Open" and click on the Calculator file
 
 # 3. Run The Program (for CS50 IDE and CLion)
 
-In CS50 IDE, (for Versions 0.1 and below in BETA) you have to go to the terminal and use the command : make calculatorv0.2; then use this command : ./calculaorv0.2 or whichever your file name is, to run your program. 
+In CS50 IDE, (for Versions 0.1 and below in BETA) you have to go to the terminal and use the command : make calculatorv0.1; then use this command : ./calculaorv0.2 or whichever your file name is, to run your program. 
 
 In CLion, click on the Green Start Button. 
 
