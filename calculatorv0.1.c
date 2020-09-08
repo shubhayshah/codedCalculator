@@ -3,6 +3,7 @@
 #include <cs50.h>
 #include <math.h>
 
+// Below states modules used in the program
 int main (void) 
 {
     // Hello and welcome to the Source Code for Calculator Version 0.1 BETA! 
